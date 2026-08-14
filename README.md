@@ -1,17 +1,17 @@
 # Olá, eu sou Caio Brito! 👋
 
-*Estudante de Ciência da Computação em busca de oportunidade na área de tecnologia, focado em desenvolvimento de software, algoritmos e estruturas de dados.*
+*Estudante de Ciência da Computação entusiasta na área da tecnologia, com conhecimento em estruturas POO, algoritmos e estruturas de dados.*
 
 ---
 
 ### 🚀 Sobre Mim
 
-* 🎓 Atualmente estudo na Universidade Federal de Campina Grande (UFCG)[cite: 1]
-* 📚 Aprofundando estudos em Estruturas de Dados, Algoritmos Avançados, POO e Testes de Unidade[cite: 1]
-* ⚙️ Experiência com benchmark, análise experimental de desempenho e ambiente Linux[cite: 1]
-* 🏆 Participante da Maratona de Programação (SACC/UFCG)[cite: 1]
-* 💬 Me chame para falar sobre **Python**, **Java** e **Estruturas de Dados**[cite: 1]
-* 📫 Como me encontrar: caio.brito.dos.santos@ccc.ufcg.edu.br[cite: 1]
+* 🎓 Atualmente estudo na Universidade Federal de Campina Grande (UFCG)
+* 📚 Aprofundando estudos em Estruturas de Dados, Algoritmos Avançados, POO e Testes de Unidade
+* ⚙️ Experiência com benchmark, análise experimental de desempenho e ambiente Linux
+* 🏆 Participante da Maratona de Programação (SACC/UFCG)
+* 💬 Me chame para falar sobre Python e Java
+* 📫 Como me encontrar: caiobritosantos2007@gmail.com
 
 ---
 

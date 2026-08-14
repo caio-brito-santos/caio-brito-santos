@@ -1,4 +1,4 @@
-# Olá, eu sou Caio Brito! 👋
+# Olá, eu sou Caio Brito! 
 
 *Estudante de Ciência da Computação entusiasta na área da tecnologia, com conhecimento em estruturas POO, algoritmos e estruturas de dados.*
 
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Minhas Ferramentas e Tecnologias
+### 🛠️ Minhas Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
